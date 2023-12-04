@@ -25,7 +25,8 @@ My projects are mainly in the field of cultural heritage and the digital present
 <p align="center">
   <img src="images/cm.svg" alt="Monogram" />
 </p>
-
+<!--
 <p align="center">
   <img src="images/no-emoji.svg" alt="No Emojis" style="max-width: 5%;" />
 </p>
+-->

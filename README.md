@@ -1,12 +1,18 @@
-### Hi there 👋
+Projektemacher / Christian Mahnke
+=================================
 
 # Projects
 
-
+My projects are mainly in the field of cultural heritage and the digital presentation of artefacts of everyday culture.
 
 # Contact info
-- Web: https://christianmahnke.de/
-- Mail: mail@christianmahnke.de
+
+* Web: [https://christianmahnke.de/](https://christianmahnke.de/)
+* Mail: mail@christianmahnke.de
+
+# Portfolio
+
+* See [https://projektemacher.org/blogs/](https://projektemacher.org/blogs/)
 
 # GitHub stats
 
@@ -16,19 +22,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cmahnke&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cmahnke&theme=github)
 
-# Portfolio
+<p align="center">
+  <img src="images/cm.svg" alt="Monogram" />
+</p>
 
-<!--
-**cmahnke/cmahnke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="images/no-emoji.svg" alt="No Emojis" height="2em" width="2em" />
+</p>
